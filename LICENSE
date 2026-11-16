@@ -1,0 +1,44 @@
+BantayDavao — Proprietary License (All Rights Reserved)
+
+Copyright (c) 2026 Recontech. All rights reserved.
+
+BantayDavao, including its source code, user interface design, artwork, icons,
+written content, quest system, and data compilations in this repository
+(together, "the Software"), is the property of Recontech.
+
+1. What you MAY do
+   - View and read the source code on GitHub.
+   - Run the Software on your own device to try it out or evaluate it.
+   - Fork the repository on GitHub only to the extent required by the GitHub
+     Terms of Service. A fork does not grant any rights beyond this license.
+
+2. What you may NOT do without prior written permission from Recontech
+   - Copy, reproduce, modify, adapt, translate, or create derivative works of
+     the Software or any part of it.
+   - Publish, distribute, sublicense, sell, rent, or host the Software, or offer
+     it as part of any product, app, website, or service (including app stores).
+   - Rebrand the Software, or present it or any part of it as your own work.
+   - Remove or alter this license, the copyright notice, or any attribution to
+     Recontech.
+
+3. Third-party components
+   Files from third parties (map libraries, fonts, map data) keep their own
+   licenses, which are listed in THIRD_PARTY_NOTICES.md. This license does not
+   restrict your rights under those licenses for those files.
+
+4. Not an official government app
+   BantayDavao is a concept built by Recontech for Davao City. It is not
+   operated or endorsed by the City Government of Davao, PAGASA, DOH, or any
+   other agency unless they state so in writing. Names of agencies are used
+   only to describe the public information the app refers to.
+
+5. No warranty; safety information
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED. Safety, weather, first aid, and hotline information in the Software
+   may be sample data and is not a substitute for official advisories or
+   medical care. In an emergency, call 911. IN NO EVENT SHALL RECONTECH BE
+   LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF
+   THE SOFTWARE.
+
+To ask for permission (partnerships, government deployment, licensing),
+contact Recontech through https://github.com/Recontech-dev.
